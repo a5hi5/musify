@@ -74,7 +74,8 @@
 }
 /*songs card styling ends*/
 .play:hover {
-  background-color: rgb(102, 248, 17);
+  background-color: black;
+  color: white;
 }
 
 ::-webkit-scrollbar {
